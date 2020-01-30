@@ -1,0 +1,32 @@
+.nav-link {
+    color: #4e555b;
+}
+.aboutus{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.img{
+    width: 100%;
+    height: 100%;
+}
+.logo{
+    text-align: center;
+    background-color: #ffffff;
+    color: #10e5fb;
+    font-family: Arial;
+}
+.col-md-9{
+    text-justify: distribute;
+}
+.crew{
+    margin-left: 30px;
+}
+.left_div{
+    background-color: #fcfcfc;
+    height: 10vh;
+}
+.navb{
+    margin-left: -10%;
+    justify-content: center;
+}
